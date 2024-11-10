@@ -22,4 +22,4 @@ In the end, I considered using JavaScript for certain features, but I decided it
 
 [https://www.figma.com/design/vGQfMNc5nuwqi146Eisy82/Curriculm-Vitale](url)
 
-PD: I'm not sure what happened with Figma, but now the interface is different from the last time. I’ve done my best to create a simple design for what my website might look like.
+PD: I'm not sure what happened with Figma, but now the interface is different from the last time. I’ve done my best to create a simple design for what my website might look like. If the link doesn't work, copy it into the Google search bar.
