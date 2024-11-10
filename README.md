@@ -20,6 +20,6 @@ In the end, I considered using JavaScript for certain features, but I decided it
 
 **FIGMA PROJECT LINK**
 
-[https://www.figma.com/design/vGQfMNc5nuwqi146Eisy82/Curriculm-Vitale?t=xjhi7eVS5UZt7Nr5-0](url)
+[https://www.figma.com/design/vGQfMNc5nuwqi146Eisy82/Curriculm-Vitale](url)
 
 PD: I'm not sure what happened with Figma, but now the interface is different from the last time. I’ve done my best to create a simple design for what my website might look like.
