@@ -16,3 +16,10 @@ For the visual design, I chose a minimalist approach to maintain a professional 
 Interactive elements, like the profile photo’s hover effect and links in the contact information, incorporate subtle transitions to make the interface engaging without unnecessary distractions. I used spacing and alignment to structure each section, ensuring ample white space to separate information blocks and improve readability. I've also added a color-change effect on certain sections when hovering over them to enhance readability. Additionally, in the contact section, simply clicking on any contact method will instantly connect the user with me, making it as easy as possible to get in touch.
 
 In the end, I considered using JavaScript for certain features, but I decided it would be more effective to keep the design simple and avoid its use.
+
+
+**FIGMA PROJECT LINK**
+
+[https://www.figma.com/design/vGQfMNc5nuwqi146Eisy82/Untitled?node-id=0-1&t=xjhi7eVS5UZt7Nr5-1](url)
+
+PD: I'm not sure what happened with Figma, but now the interface is different from the last time. I’ve done my best to create a simple design for what my website might look like.
