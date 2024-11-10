@@ -1,4 +1,4 @@
-# Hypermedia-project - Curriculum Vitae
+# Hypermedia project - Curriculum Vitae
 **Hypermedia project hand-in. Part 1: Create your CV website**
 
 **Project Analysis, Information Architecture**
